@@ -31,8 +31,8 @@ const menus = {
 
 // รายการ Add-on
 const addOns = [
-  { id: 1, name: "ไข่ดาว", price: 20 },
-  { id: 2, name: "ไข่ต้ม", price: 25 },
+  { id: 1, name: "ไข่ดาว", price: 7 },
+  { id: 2, name: "ไข่ต้ม", price: 6 },
   { id: 3, name: "พิเศษ", price: 5 }, // เพิ่ม "พิเศษ" ราคา 5 บาท
 ];
 
